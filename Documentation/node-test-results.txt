@@ -1,0 +1,20 @@
+✔ 12 ordered gates required; reverse progress rejected; finish clamped (1.161516ms)
+✔ track seam and wrapped pad crossing (0.254631ms)
+✔ all three pilots can complete an actual three-lap simulated race (2425.517995ms)
+✔ driving, steering, drifting, air control and braking (27.119617ms)
+✔ boost is consumed and regenerates; centered pad adds velocity (39.153711ms)
+✔ shield absorbs first, hull takes overflow, destruction recovers at gate (0.29402ms)
+✔ all abilities, cooldown gating and immunity (0.270074ms)
+✔ laser and missile damage drone using swept projectile hits (1.968634ms)
+✔ empty missile inventory and rate limit prevent free missiles (0.831659ms)
+✔ pickups collect once then respawn (1.533334ms)
+✔ pause freezes all simulation; restart clears race state (14.54165ms)
+✔ brake takes priority over throttle (13.609155ms)
+ℹ tests 12
+ℹ suites 0
+ℹ pass 12
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 2655.531854

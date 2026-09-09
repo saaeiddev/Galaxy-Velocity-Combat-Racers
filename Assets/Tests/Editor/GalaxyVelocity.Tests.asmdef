@@ -1,0 +1,12 @@
+{
+  "name": "GalaxyVelocity.Tests",
+  "references": [
+    "GalaxyVelocity.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

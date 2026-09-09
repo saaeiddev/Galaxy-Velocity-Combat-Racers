@@ -1,0 +1,1 @@
+HUD and procedural portraits are built by GalaxyHUD.cs at runtime. Reference canvas: 1280 × 720. Controls remain in a fixed safe area; aspect scaling is applied in OnGUI. This is a prototype translucent HUD, not a refractive glass shader.

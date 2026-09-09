@@ -1,0 +1,7 @@
+{
+  "name": "GalaxyVelocity.Runtime",
+  "references": [
+    "Unity.RenderPipelines.Universal.Runtime",
+    "Unity.RenderPipelines.Core.Runtime"
+  ]
+}

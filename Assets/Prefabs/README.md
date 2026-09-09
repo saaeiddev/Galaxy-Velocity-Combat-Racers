@@ -1,0 +1,1 @@
+Three editable vehicle prefabs are generated on first Unity import by ProjectSetup.Ensure. Gameplay uses the same ProceduralArt factory. Replace its output with production models without changing Racer logic.
